@@ -1,0 +1,6 @@
+Resolusi 2023 :
+- Memahami penggunaan Git dan Github
+- Menguasai mvc
+- Menguasai frame work CI
+- Memahami tema lomba dan mengimplementasikannya
+- Memperdalam English
